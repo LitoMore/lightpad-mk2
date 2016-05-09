@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rodmachen/lightpad-mk2/issues"
   },
-  "homepage": "https://github.com/rodmachen/lightpad-mk2#readme"
+  "homepage": "https://github.com/rodmachen/lightpad-mk2#readme",
+  "dependencies": {
+    "midi": "^0.9.4"
+  }
 }
