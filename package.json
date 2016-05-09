@@ -1,0 +1,24 @@
+{
+  "name": "lightpad-mk2",
+  "version": "0.0.1",
+  "description": "Create light effects with Novation's Launchpad MK2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodmachen/lightpad-mk2.git"
+  },
+  "keywords": [
+    "['midi'",
+    "'launchpad'",
+    "'novation']"
+  ],
+  "author": "Rod Machen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodmachen/lightpad-mk2/issues"
+  },
+  "homepage": "https://github.com/rodmachen/lightpad-mk2#readme"
+}
