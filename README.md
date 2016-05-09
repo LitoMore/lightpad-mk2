@@ -6,11 +6,13 @@ A utility for manipulating the LED lights on Novation's Launchpad MK2.
 
 ### Get started
 
-Install, require, and instantiate.
+Install and require.
 
 ```bash
 $ npm install lightpad-mk2
 ```
+
+In your file:
 
 ```javascript
 var pad = require('lightpad-mk2')

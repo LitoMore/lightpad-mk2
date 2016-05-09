@@ -1,6 +1,6 @@
 {
   "name": "lightpad-mk2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create light effects with Novation's Launchpad MK2",
   "main": "index.js",
   "scripts": {
