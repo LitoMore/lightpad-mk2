@@ -22,7 +22,7 @@ To turn on and off the LED for one of the buttons, use the `on` and `off`
 methods with x and y coordinates and an optional color. Numbering starts in the
 botton right corner.
 
-``javascript
+```javascript
 pad.on(1, 3, 60)
 // turns on the button in the first column, three from the bottom
 pad.on(1, 3)
