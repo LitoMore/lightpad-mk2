@@ -11,9 +11,9 @@
     "url": "git+https://github.com/rodmachen/lightpad-mk2.git"
   },
   "keywords": [
-    "['midi'",
-    "'launchpad'",
-    "'novation']"
+    "midi",
+    "launchpad",
+    "novation"
   ],
   "author": "Rod Machen",
   "license": "MIT",

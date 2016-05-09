@@ -1,10 +1,12 @@
 # Lightpad MK2
 
+WORK IN PROGRESS
+
 A utility for manipulating the LED lights on Novation's Launchpad MK2.
 
 ## Usage
 
-### Get started
+### Getting started
 
 Install and require.
 
