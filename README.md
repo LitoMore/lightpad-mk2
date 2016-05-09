@@ -8,13 +8,13 @@ A utility for manipulating the LED lights on Novation's Launchpad MK2.
 
 Install, require, and instantiate.
 
-``bash
+```bash
 $ npm install lightpad-mk2
-``
+```
 
-``javascript
+```javascript
 var pad = require('lightpad-mk2')
-``
+```
 
 ### Simple on/off
 
@@ -28,6 +28,6 @@ pad.on(1, 3, 60)
 pad.on(1, 3)
 // does the exact same thing; color defaults to 60 (red) when not designated
 pad.off(1, 3)
-// turn off the same button
+// turns off the same button
 ```
 
