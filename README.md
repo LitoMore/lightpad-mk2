@@ -4,6 +4,8 @@ WORK IN PROGRESS
 
 A utility for manipulating the LED lights on Novation's Launchpad MK2.
 
+Built on top of the [midi](https://www.npmjs.com/package/midi) module. Thanks to Justin Latimer, et al.
+
 ## Usage
 
 ### Getting started
@@ -35,3 +37,5 @@ pad.off(1, 3)
 // turns off the same button
 ```
 
+License: MIT
+&copy; 2016 Rod Machen
